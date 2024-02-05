@@ -3,3 +3,4 @@
 
 Логин
 ![](https://disk.yandex.ru/i/PShdHaHus6Iucg)
+<img src=["pic_trulli.jpg" alt="Italian Trulli"](https://disk.yandex.ru/i/PShdHaHus6Iucg)https://disk.yandex.ru/i/PShdHaHus6Iucg>
