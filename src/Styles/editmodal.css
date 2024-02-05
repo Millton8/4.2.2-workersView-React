@@ -1,0 +1,18 @@
+
+.editmodal button{
+    background-color: #008CBA;
+    color: aliceblue;
+    border: 0px;
+    padding: 5px 10px;
+
+}
+.editmodal button :hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.24);
+
+}
+.editmodal table{
+    border-radius: 0;
+}
+.editmodal{
+    background: white;
+}
