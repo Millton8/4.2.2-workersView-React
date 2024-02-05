@@ -1,0 +1,60 @@
+
+.gener input {
+    margin-top: 1%;
+}
+.gener table {
+    display: inline-block;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    border-collapse: collapse;
+    border-radius: 20px;
+    box-shadow: 0 0 0 6px #c3f1e5;
+    color: #452F21;
+    margin-left: 0 auto;
+    margin-top: 20px;
+}
+
+.gener thead {
+    position: sticky;
+    top: 0;
+}
+
+.gener th {
+    padding: 10px 8px;
+    background: white;
+}
+
+.gener tr:nth-child(odd) {
+    background: white;
+}
+
+.gener tr:nth-child(even) {
+    background: #ddece9;
+}
+
+.gener table th:first-child {
+    border-top-left-radius: 20px;
+}
+
+.gener table th:last-child {
+    border-top-right-radius: 20px;
+}
+
+.gener td {
+    border-top: 1px solid #90f4da;
+    padding: 5px;
+}
+
+.gener table td:first-child {
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.gener table td:last-child {
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.gener div{
+    text-align: center;
+}
