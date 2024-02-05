@@ -3,4 +3,12 @@
 
 Логин
 ![](https://github.com/Millton8/4.2.2-workersView-React/blob/main/Login.jpg)
-<img src=https://disk.yandex.ru/i/PShdHaHus6Iucg alt="Girl in a jacket">
+
+Отчет о выполненных работах
+![](https://github.com/Millton8/4.2.2-workersView-React/blob/main/gen.jpg)
+
+Кто сейчас работает
+![](https://github.com/Millton8/4.2.2-workersView-React/blob/main/Status.jpg)
+
+Список работников
+![](https://github.com/Millton8/4.2.2-workersView-React/blob/main/work.jpg)
